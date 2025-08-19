@@ -1,0 +1,10 @@
+yolo_model: "models/yolov10s.pt"   # مدل قوی‌تر برای افراد کوچک
+tracker_type: "bytetrack"
+device: "mps"
+conf_threshold: 0.2
+iou_threshold: 0.5
+stream_source: "/Users/mostafamashhadizadeh/Desktop/MyProjects/CrowdLensAI/data/test.mp4"
+reid_model: "models/osnet_x1_0_msmt17.pth"
+classes:
+  - 0
+

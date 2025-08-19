@@ -1,0 +1,7 @@
+ultralytics==8.2.0
+boxmot==0.10.1
+opencv-python>=4.8.0
+PyYAML>=6.0
+torch>=2.2.0
+torchvision>=0.17.0
+

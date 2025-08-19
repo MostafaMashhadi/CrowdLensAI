@@ -1,0 +1,13 @@
+min_conf:
+  default: 0.1
+track_thresh:
+  default: 0.5
+match_thresh:
+  default: 0.75
+track_buffer:
+  default: 600
+frame_rate:
+  default: 30
+per_class:
+  default: false
+
